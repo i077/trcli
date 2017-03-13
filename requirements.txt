@@ -1,0 +1,5 @@
+colored
+clint
+json
+requests
+shlex
